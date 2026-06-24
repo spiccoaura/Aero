@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+    <PropertyGroup>
+        <TargetFramework>net9.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+        <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+        <LangVersion>latest</LangVersion>
+        
+        <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+        <Authors>Spicco D'Aura</Authors>
+        <Version>1.0.0-preview</Version>
+        <PackageLicenseExpression>CC-BY-SA-1.0</PackageLicenseExpression>
+        <Description>Low-level high-performance memory structures (RingBuffer, MemoryPool).</Description>
+        
+        <PackageIcon>Avian.png</PackageIcon>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <None Include="Media\Avian.png" Pack="true" PackagePath="\" />
+    </ItemGroup>
+</Project>
