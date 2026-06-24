@@ -6,8 +6,8 @@
         <LangVersion>latest</LangVersion>
         <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
         <Authors>Spicco D'Aura</Authors>
-        <Version>1.0.0-preview</Version>
-        <PackageLicenseExpression>CC-BY-SA-1.0</PackageLicenseExpression>
+        <Version>1.0.1-preview</Version>
+        <PackageLicenseExpression>MIT</PackageLicenseExpression>
         <Description>Compile-time optimization engine for Avian Framework events.</Description>
         <IncludeBuildOutput>false</IncludeBuildOutput>
         <IsPackable>true</IsPackable>

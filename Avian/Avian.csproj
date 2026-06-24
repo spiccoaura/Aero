@@ -8,8 +8,8 @@
         
         <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
         <Authors>Spicco D'Aura</Authors>
-        <Version>1.0.0-preview</Version>
-        <PackageLicenseExpression>CC-BY-SA-1.0</PackageLicenseExpression>
+        <Version>1.0.1-preview</Version>
+        <PackageLicenseExpression>MIT</PackageLicenseExpression>
         <Description>Low-level high-performance memory structures (RingBuffer, MemoryPool).</Description>
         
         <PackageIcon>Avian.png</PackageIcon>
