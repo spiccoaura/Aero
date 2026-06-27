@@ -12,6 +12,9 @@
         <PackageLicenseExpression>MIT</PackageLicenseExpression>
         <Description>High-performance zero-allocation event broker by Spicco D'Aura.</Description>
         
+        <RepositoryUrl>https://github.com/Vertex-Tools/Avian.git</RepositoryUrl>
+        <RepositoryType>git</RepositoryType>
+        <PublishRepositoryUrl>true</PublishRepositoryUrl>
         <PackageIcon>Avian.Event.png</PackageIcon>
     </PropertyGroup>
 

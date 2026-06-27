@@ -7,11 +7,14 @@
         <LangVersion>latest</LangVersion>
         
         <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
-        <Authors>Spicco D'Aura</Authors>
-        <Version>1.0.1-preview</Version>
-        <PackageLicenseExpression>MIT</PackageLicenseExpression>
-        <Description>Low-level high-performance memory structures (RingBuffer, MemoryPool).</Description>
+            <Authors>Spicco D'Aura</Authors>
+            <Version>1.0.1-preview</Version>
+            <PackageLicenseExpression>MIT</PackageLicenseExpression>
+            <Description>Low-level high-performance memory structures (RingBuffer, MemoryPool).</Description>
         
+            <RepositoryUrl>https://github.com/Vertex-Tools/Avian.git</RepositoryUrl>
+            <RepositoryType>git</RepositoryType>
+            <PublishRepositoryUrl>true</PublishRepositoryUrl>
         <PackageIcon>Avian.png</PackageIcon>
     </PropertyGroup>
 
